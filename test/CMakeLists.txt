@@ -131,6 +131,7 @@ set(XTENSOR_TESTS
     test_xoptional.cpp
     test_xoptional_assembly.cpp
     test_xoptional_assembly_adaptor.cpp
+    test_xoptional_assembly_operation.cpp
     test_xoptional_assembly_storage.cpp
     test_xrandom.cpp
     test_xreducer.cpp

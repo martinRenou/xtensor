@@ -95,9 +95,10 @@ set(XTENSOR_HEADERS
     ${XTENSOR_INCLUDE_DIR}/xtensor/xoffset_view.hpp
     ${XTENSOR_INCLUDE_DIR}/xtensor/xoperation.hpp
     ${XTENSOR_INCLUDE_DIR}/xtensor/xoptional.hpp
-    ${XTENSOR_INCLUDE_DIR}/xtensor/xoptional_assembly.hpp
     ${XTENSOR_INCLUDE_DIR}/xtensor/xoptional_assembly_base.hpp
+    ${XTENSOR_INCLUDE_DIR}/xtensor/xoptional_assembly_operation.hpp
     ${XTENSOR_INCLUDE_DIR}/xtensor/xoptional_assembly_storage.hpp
+    ${XTENSOR_INCLUDE_DIR}/xtensor/xoptional_assembly.hpp
     ${XTENSOR_INCLUDE_DIR}/xtensor/xrandom.hpp
     ${XTENSOR_INCLUDE_DIR}/xtensor/xreducer.hpp
     ${XTENSOR_INCLUDE_DIR}/xtensor/xscalar.hpp
